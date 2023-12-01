@@ -1,4 +1,3 @@
 # PROYECTO DE PRUEBAS CON GIT Y GITHUB
-## Developer : JohnFRivera
-
-ksasdasdafjef sadfdsfdf dfdgfg sdad
+## Developer : KEVIN ALZATE
+GGG
